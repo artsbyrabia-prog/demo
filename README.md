@@ -1,3 +1,3 @@
 # demo
 this is my first  repository
-Rabia hu meiiiii 
+Rabia hu mei
